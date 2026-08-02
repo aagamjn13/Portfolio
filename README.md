@@ -1,16 +1,67 @@
-# React + Vite
+# 🚀 Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive personal portfolio website showcasing my skills, projects, and experience as a developer. Built to provide recruiters and collaborators with a quick overview of my technical expertise and work.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Website:** https://portfolio-psi-one-27.vercel.app
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the Oxlint configuration
+* Responsive design for desktop, tablet, and mobile devices
+* Modern and clean user interface
+* About Me section
+* Skills & Technologies
+* Featured Projects
+* Contact section
+* Resume download
+* Fast performance with Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 🛠️ Tech Stack
+
+* React.js
+* Vite
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Git & GitHub
+* Vercel (Deployment)
+
+---
+
+## 📂 Project Structure
+
+```text
+portfolio/
+│── public/
+│── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+│── index.html
+│── package.json
+│── vite.config.js
+```
+
+---
+
+
+## 🚀 Deployment
+
+This project is deployed on **Vercel**.
+
+Live Website: **https://portfolio-psi-one-27.vercel.app**
+
+---
+
+## 📬 Contact
+
+* **GitHub:** https://github.com/aagamjn13
+* **Email:** *aagamjn13@gmail.com*
+
