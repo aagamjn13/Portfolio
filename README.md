@@ -16,7 +16,6 @@ A modern and responsive personal portfolio website showcasing my skills, project
 * Skills & Technologies
 * Featured Projects
 * Contact section
-* Resume download
 * Fast performance with Vite
 
 ---
@@ -25,7 +24,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 
 * React.js
 * Vite
-* JavaScript (ES6+)
+* JavaScript
 * HTML5
 * CSS3
 * Git & GitHub
