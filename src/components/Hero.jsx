@@ -13,7 +13,7 @@ const Hero = () => {
           I'm a B.Tech Electronics and Communication Engineering student at IIT (ISM) Dhanbad.
           I specialize in building full-stack applications and solving complex algorithmic problems.
         </p>
-        
+
         <div className="cta-container">
           <a href="#projects" className="btn btn-primary">
             Check out my projects <ArrowRight size={20} />
@@ -22,7 +22,7 @@ const Hero = () => {
             <a href="https://github.com/aagamjn13" target="_blank" rel="noreferrer" aria-label="GitHub">
               <FaGithub size={24} />
             </a>
-            <a href="https://linkedin.com/in/aagamjn13" target="_blank" rel="noreferrer" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/aagam-jain-10226831a/" target="_blank" rel="noreferrer" aria-label="LinkedIn">
               <FaLinkedin size={24} />
             </a>
             <a href="mailto:aagamjn13@gmail.com" aria-label="Email">

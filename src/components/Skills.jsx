@@ -6,17 +6,17 @@ const Skills = () => {
     {
       title: 'Languages',
       icon: <Code2 size={24} />,
-      skills: ['C/C++', 'HTML', 'JavaScript']
+      skills: ['C/C++', 'HTML', 'JavaScript', 'TypeScript']
     },
     {
       title: 'Frameworks & Libraries',
       icon: <Layout size={24} />,
-      skills: ['React.js', 'Express.js', 'Node.js', 'Tailwind CSS', 'EJS']
+      skills: ['React.js', 'Express.js', 'Node.js', 'Tailwind CSS', 'Socket.IO']
     },
     {
       title: 'Database & Tools',
       icon: <Database size={24} />,
-      skills: ['MongoDB', 'Firebase', 'Git', 'GitHub']
+      skills: ['MongoDB', 'Firebase', 'Git', 'GitHub', 'MySQL']
     },
     {
       title: 'Core Concepts',
@@ -28,7 +28,7 @@ const Skills = () => {
   return (
     <section id="skills" className="section skills">
       <h2 className="section-title">Technical Skills</h2>
-      
+
       <div className="skills-grid">
         {skillCategories.map((category, index) => (
           <div key={index} className="skill-card">
