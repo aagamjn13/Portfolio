@@ -9,7 +9,7 @@ const Projects = () => {
       description: 'A full-stack note-sharing platform built with the MERN stack, featuring folder-based organization, file uploads, and controlled note sharing. Includes real-time social interactions such as likes, comments, shares, and follow requests, along with AI-powered note summaries and relevant tags.',
       tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Firebase', 'Socket.IO', 'JWT', 'Gemini API'],
       github: 'https://github.com/aagamjn13/Note-Bridge',
-      live: 'https://note-bridge-aagam.onrender.com/'
+      live: 'https://note-bridge.onrender.com/'
     },
     {
       title: 'HectoClash',
