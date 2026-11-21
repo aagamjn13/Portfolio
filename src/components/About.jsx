@@ -60,7 +60,7 @@ const About = () => {
                 <a href="https://leetcode.com/u/Code-encoder/" target="_blank" rel="noreferrer" aria-label="LeetCode" className="profile-link">
                   LeetCode
                 </a>
-                <a href="https://codeforces.com/profile/Not_my_bug" target="_blank" rel="noreferrer" aria-label="Codeforces" className="profile-link">
+                <a href="https://codeforces.com/profile/iam_a_mystery" target="_blank" rel="noreferrer" aria-label="Codeforces" className="profile-link">
                   Codeforces
                 </a>
                 <a href="https://www.codechef.com/users/code_encoder" target="_blank" rel="noreferrer" aria-label="CodeChef" className="profile-link">
